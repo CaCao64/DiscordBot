@@ -1,0 +1,7 @@
+discord.py
+apscheduler
+python-dotenv==1.0.1
+pytz==2024.2
+flask
+time
+requests
